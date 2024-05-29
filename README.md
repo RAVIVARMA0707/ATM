@@ -16,8 +16,7 @@ This project implements an ATM console application in Java with features includi
 ## Installation ⬇️
 1.  **Clone the repository:**
     
-    `git clone https://github.com/yourusername/atm-console-application.git
-    cd atm-console-application` 
+    `https://github.com/RAVIVARMA0707/ATM.git` 
     
 2.  **Open the Project in an IDE:**
     
